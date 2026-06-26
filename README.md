@@ -1,1 +1,1 @@
-# Advanced-Amazon-Review-Sentimental-Analysis-System
+# sentiment-analyser
